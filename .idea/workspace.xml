@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a81e5e18-4088-41b5-aa7b-586e18d1d5aa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/selenium_server_standalone_3_141_59.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NopCommFeatureFiles.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/BuildYourOwnComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/CheckoutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/EmailAFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/RegisterPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/RegistrationResultPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/SignInPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NopCommFeatureFile/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/BrowserDriver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/BrowserDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/BrowserDriver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/Features/checkoutWithoutRegister.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/Features/registerAndEmailAFriend.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/Features/registerUserBuyProductSuccessfully.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/Features/registration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/Features/unregisterUserCan'tReferAFriend.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Resources/TestData/testdataConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NopCommFeatureFile/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NopCommFeatureFile/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NopCommFeatureFile/MyStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/NopCommFeatureFile/RunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/BrowserSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/BuildYourOwnComputer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/CheckoutPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/EmailAFriend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/RegisterPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/RegistrationResultPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/ShoppingCart.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/SignInPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/NopCommFeatureFile/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BrowserDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BrowserDriver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Features/checkoutWithoutRegister.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Features/registerAndEmailAFriend.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Features/registerUserBuyProductSuccessfully.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Features/registration.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Features/unregisterUserCan'tReferAFriend.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/NopCommFeatureFiles.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/NopCommFeatureFile/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/NopCommFeatureFile/Hooks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/NopCommFeatureFile/MyStepdefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/NopCommFeatureFile/RunTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/TestData/testdataConfig.properties" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S9hOCTwAw7qu7o4D2MyWvHYn1z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowserDriver" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="NopCommFeatureFile" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mitesh\IdeaProjects\NopCommFeatureFiles\src\test\Resources\BrowserDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NopCommFeatureFiles" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopCommFeatureFile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopCommFeatureFile" />
+      <option name="MAIN_CLASS_NAME" value="NopCommFeatureFile.RunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RunTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a81e5e18-4088-41b5-aa7b-586e18d1d5aa" name="Default Changelist" comment="" />
+      <created>1570981684645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570981684645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
